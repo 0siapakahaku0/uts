@@ -1,0 +1,24 @@
+<!--
+  ~ NIM : 10116158
+  ~ NAMA : ALDY FERDIAN ADAM
+  ~ KELAS : IF-4
+  ~ TANGGAL PEMBUATAN : 16/05/2019
+  -->
+
+<resources>
+    <string name="app_name">UTS 10116158</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+
+    <string name="slide_1_title">SELAMAT DATANG</string>
+    <string name="slide_1_desc">Selamat datang di Aplikasi UTS 10116158</string>
+
+    <string name="slide_2_title">TENTANG</string>
+    <string name="slide_2_desc">Aplikasi ini dibuat sebagai tugas mata kuliah Aplikasi Komputasi Bergerak.\n\nAplikasi ini berisi tentang profil pembuat dan profil teman-teman.</string>
+
+    <string name="slide_3_title">PEMBUAT</string>
+    <string name="slide_3_desc">Aplikasi ini dibuat oleh : \nAldy Ferdian Adam (10116158)\n IF-4</string>
+</resources>
